@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+    text-align: center;
+}
+
+a.download-excursion {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+h1.lead-title {
+  color: white;
+  font-weight: normal;
+  font-size: 50px;
+
+}
+
+h2.travel-guide, h2.coming-soon {
+  color: white;
+  font-weight: 300;
+  font-size: 42px;
+}
+
+p {
+  font-size: 21px;
+  color: Gray;
+}
+
+
+footer.copyright {
+  color: Gray;
+  text-align: right;
+}
